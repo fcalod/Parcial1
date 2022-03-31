@@ -12,5 +12,11 @@ En este documento aprenderás para qué sirve la documentación de un proyecto y
 
 
 
+##
 
+
+<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/1.PNG" width="450">
+
+
+<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/2.PNG" width="450">
 
