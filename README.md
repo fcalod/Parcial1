@@ -33,5 +33,5 @@ En este documento aprenderás para qué sirve la documentación de un proyecto y
 
 ## Referencias
   
-- <a name="[1]"> [1]: Holscher, E. (s.f.). A beginner’s guide to writing documentation. *Write the Docs*. Recuperado de https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/. <\a>
-- <a name="[2]"> [2]: Cone, M. (s.f.). Basic Syntax. Markdown Guide. Recuperado de https://www.markdownguide.org/basic-syntax/. <\a>
+- <a name="[1]"> [1]: Holscher, E. (s.f.). A beginner’s guide to writing documentation. *Write the Docs*. Recuperado de https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/.
+- <a name="[2]"> [2]: Cone, M. (s.f.). Basic Syntax. Markdown Guide. Recuperado de https://www.markdownguide.org/basic-syntax/.
