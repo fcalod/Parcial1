@@ -25,8 +25,9 @@ En este documento aprenderás para qué sirve la documentación de un proyecto y
 
 
 <img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/4.PNG" width="450">
-[1]
-[2]
+[a] [1]
+
+[b] [2]
 
 
 ## Referencias
