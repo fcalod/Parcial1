@@ -19,8 +19,6 @@ Cuando empieces a crear programas complejos, te darás cuenta de que después de
 - Te ayuda a definir tus metas y a organizarte (Holscher, s.f.).
 
 
-[1](#[1])
-
 ## Crea tu primera documentación
 Sigue los siguientes pasos para crear tu primera documentación en GitHub:
 
