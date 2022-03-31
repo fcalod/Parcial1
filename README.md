@@ -18,21 +18,6 @@ Cuando empieces a crear programas complejos, te darás cuenta de que después de
 - Mejora tus habilidades de escritura técnica.
 - Te ayuda a definir tus metas y a organizarte (Holscher, s.f.).
 
-```mermaid
-graph LR
-A[Grupo]
-B[Materia]
-C[Profesorooooo]
-D[Alumno]
-F{imparte}
-G{tiene}
-H{considera}
-
-D---H---A
-A --- F --- C
-A --- G --- B
-```
-
 
 ## Crea tu primera documentación
 Sigue los siguientes pasos para crear tu primera documentación en GitHub:
@@ -55,7 +40,10 @@ Sigue los siguientes pasos para crear tu primera documentación en GitHub:
 - Organiza tu documento de forma que sea fácil hallar la información importante.
 - Si tu programa requiere instalarse, escribe cómo hacerlo paso por paso.
 - Agrega una sección de FAQ.
-- Agrega un correo donde tus usuarios puedan contactarte para dudas o sugerencias (Holscher, s.f.).
+- Agrega un correo donde tus usuarios puedan contactarte para dudas o sugerencias.
+- Toma en cuenta las necesidades de tu audiencia (Holscher, s.f.):
+
+<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/5.PNG" width="550">
 
 ## Referencias
 - <a name="[1]"> [1]: Holscher, E. (s.f.). A beginner’s guide to writing documentation. *Write the Docs*. Recuperado de https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/.
