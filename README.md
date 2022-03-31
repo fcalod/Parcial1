@@ -18,6 +18,21 @@ Cuando empieces a crear programas complejos, te darás cuenta de que después de
 - Mejora tus habilidades de escritura técnica.
 - Te ayuda a definir tus metas y a organizarte (Holscher, s.f.).
 
+```mermaid
+graph LR
+A[Grupo]
+B[Materia]
+C[Profesor]
+D[Alumno]
+F{imparte}
+G{tiene}
+H{considera}
+
+D---H---A
+A --- F --- C
+A --- G --- B
+```
+
 
 ## Crea tu primera documentación
 Sigue los siguientes pasos para crear tu primera documentación en GitHub:
