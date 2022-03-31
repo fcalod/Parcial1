@@ -25,8 +25,14 @@ En este documento aprenderás para qué sirve la documentación de un proyecto y
 
 
 <img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/4.PNG" width="450">
-[ab](#[1])
+
+
+
+[1](#[1])
+
 
 ## Referencias
+  <a name="[1]">
 - [1]: Holscher, E. (s.f.). A beginner’s guide to writing documentation. *Write the Docs*. Recuperado de https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/.
+  <\a>
 - [2]: Cone, M. (s.f.). Basic Syntax. Markdown Guide. Recuperado de https://www.markdownguide.org/basic-syntax/.
