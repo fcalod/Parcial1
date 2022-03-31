@@ -23,17 +23,17 @@ Cuando empieces a crear programas complejos, te darás cuenta de que después de
 Sigue los siguientes pasos para crear tu primera documentación en GitHub:
 
 1. Accede a github.com y crea una cuenta si no tienes ya una. 
-<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/1.PNG" width="450">
+<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/1.PNG" width="550">
 
 2. La siguiente ventana muestra tus repisotorios (es decir, tus proyectos). Por ahora está vacía. Navega al "+" junto a tu ícono y da clic en "Nuevo repositorio".
-<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/2.PNG" width="450">
+<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/2.PNG" width="550">
 
 3. Dale un nombre a tu repositorio y configúralo como se muestra a continuación. Asegúrate de de que "Agregar un archivo README" esté marcado.
-<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/3.PNG" width="450">
+<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/3.PNG" width="550">
 
 4. ¡Has creado tu primer proyecto! Por ahora sólo tienes un archivo README, donde podrás escribir tu documentación. Haz clic en el ícono del lapiz para editar el archivo y luego en "Commit changes" para guardar cualquier cambio que hagas. GitHub utiliza el lenguaje Markdown para darle formato a los archivos README. No revisaremos cómo usar Markdown aquí, pero te recomendamos esta [guía](https://www.markdownguide.org/basic-syntax/) para aprenderlo. Es muy fácil y podrás empezar a usarlo después de sólo unos minutos.
 
-<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/4.PNG" width="450">
+<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/4.PNG" width="550">
 
 ## Consejos para documentar
 - Sé claro y breve. Si no vas al grano, pocas personas terminarán de leer tu README.
