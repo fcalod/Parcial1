@@ -5,6 +5,7 @@ En este documento aprenderás para qué sirve la documentación de un proyecto y
 ## Tabla de contenidos
 * [¿Por qué documentar?](#¿por-que-documentar?)
 * [Crea tu primera documentación](#crea-tu-primera-documentación)
+* [Consejos para documentar](#consejos-para-documentar)
 * [Referencias](#referencias)
 
 
