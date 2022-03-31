@@ -1,5 +1,5 @@
 # Documentación en GitHub
-En este documento aprenderás para qué sirve la documentación de un proyecto y cómo crearla en GitHub.
+A continuación aprenderás para qué sirve la documentación de un proyecto y cómo crearla en GitHub.
 
 
 ## Tabla de contenidos
