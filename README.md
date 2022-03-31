@@ -10,7 +10,7 @@ En este documento aprenderás para qué sirve la documentación de un proyecto y
 
 ## ¿Por qué documentar?
 
-
+[1](#[1])
 
 ## Crea tu primera documentación
 
@@ -28,7 +28,7 @@ En este documento aprenderás para qué sirve la documentación de un proyecto y
 
 
 
-[1](#[1])
+
 
 
 ## Referencias
