@@ -22,7 +22,7 @@ Cuando empieces a crear programas complejos, te darás cuenta de que después de
 graph LR
 A[Grupo]
 B[Materia]
-C[Profesor]
+C[Profesorooooo]
 D[Alumno]
 F{imparte}
 G{tiene}
