@@ -10,7 +10,7 @@ A continuación aprenderás para qué sirve la documentación de un proyecto y c
 
 
 ## ¿Por qué documentar?
-Cuando empieces a crear programas complejos, te darás cuenta de que después de unos meses es difícil recordar cómo funciona. Al igual que comentar tu código te ayuda a entender qué hiciste y por qué, crear documentación le ayuda a los demás a saber para qué sirve tu programa. Después de todo, ¿quién va a usar tu código si nadie entiende a primera vista para qué sirve? (Holscher, s.f.). Además, la documentación te ofrece varias ventajas:
+Cuando empieces a crear programas complejos, te darás cuenta de que después de unos meses es difícil recordar cómo funcionan. Al igual que comentar tu código te ayuda a entender qué hiciste y por qué, crear documentación le ayuda a los demás a saber para qué sirve tu programa. Después de todo, ¿quién va a usar tu código si nadie entiende a primera vista para qué sirve? (Holscher, s.f.). Además, la documentación te ofrece varias ventajas:
 
 - Sirve como carta de presentación de tu proyecto, lo cual lo hace más atractivo.
 - Hace más probable que otras personas quieran usar tu programa.
@@ -44,6 +44,7 @@ Sigue los siguientes pasos para crear tu primera documentación en GitHub:
 - Toma en cuenta las necesidades de tu audiencia (Holscher, s.f.):
 
 <img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/5.png" width="400">
+
 
 ## Referencias
 - <a name="[1]"> [1]: Holscher, E. (s.f.). A beginner’s guide to writing documentation. *Write the Docs*. Recuperado de https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/.
