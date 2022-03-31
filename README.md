@@ -25,7 +25,7 @@ En este documento aprenderás para qué sirve la documentación de un proyecto y
 
 
 <img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/4.PNG" width="450">
-a(#[1])
+[ab](#[1])
 
 ## Referencias
 - [1]: Holscher, E. (s.f.). A beginner’s guide to writing documentation. *Write the Docs*. Recuperado de https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/.
