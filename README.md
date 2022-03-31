@@ -43,7 +43,7 @@ Sigue los siguientes pasos para crear tu primera documentación en GitHub:
 - Agrega un correo donde tus usuarios puedan contactarte para dudas o sugerencias.
 - Toma en cuenta las necesidades de tu audiencia (Holscher, s.f.):
 
-<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/5.PNG" width="550">
+<img src="https://github.com/fcalod/Parcial1/blob/main/Imágenes/5.png" width="550">
 
 ## Referencias
 - <a name="[1]"> [1]: Holscher, E. (s.f.). A beginner’s guide to writing documentation. *Write the Docs*. Recuperado de https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/.
